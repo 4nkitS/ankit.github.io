@@ -1,2 +1,3 @@
 # ankit.github.io
-My projects and career profile
+
+This is repository for my github.io webpage.
